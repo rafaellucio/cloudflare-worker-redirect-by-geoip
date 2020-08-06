@@ -1,0 +1,8 @@
+name = "redirect-by-geoip"
+account_id = "*****"
+type = "webpack"
+workers_dev = true
+
+[env.production]
+route = "files.gangoffront.com/*"
+zone_id = "*****"
