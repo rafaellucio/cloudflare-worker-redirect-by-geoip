@@ -18,6 +18,7 @@ Second
 - Then it will be redirected to https://creditascrew.gangoffront.com 
 
 Cloudflare Community speaking about GeoIP Redirection Worker
+
 https://community.cloudflare.com/t/geoip-redirection-worker/14414/13
 
 ## Using
