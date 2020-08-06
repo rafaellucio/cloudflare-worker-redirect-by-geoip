@@ -5,13 +5,17 @@
 
 **Scenarios**
 
-Given the user is from Mexico 
-When to access https://files.gangoffront.com 
-Then it will be redirected to https://creditascrew.gangoffront.com 
+First
 
-Given the user is from Spain 
-When to access https://files.gangoffront.com 
-Then it will be redirected to https://creditascrew.gangoffront.com 
+- Given the user is from Mexico 
+- When to access https://files.gangoffront.com 
+- Then it will be redirected to https://creditascrew.gangoffront.com 
+
+Second
+
+- Given the user is from Spain 
+- When to access https://files.gangoffront.com 
+- Then it will be redirected to https://creditascrew.gangoffront.com 
 
 ## Using
 
